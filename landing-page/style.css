@@ -1,0 +1,79 @@
+body {
+    background-image: url("images/Ethan-Favour-SP-1-1.png");
+    width: 1vw;
+    height: 1vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.wrapper {
+    height: 1vh;
+    width: 1vw;
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.bike-btn {
+    background-image: url("images/bike-mpls-1.png");
+    width: 400px;
+    height: 400px;
+    margin-left: 140px;
+    margin-right: 100px;
+    background-size: cover;
+    border-radius: 50px;
+    transition-duration: 1s;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.bike-btn:hover {
+    background-image: url("images/bike-mpls-2.png");
+    border-radius: 300px;
+    transition-duration: 1s;
+
+}
+
+.portfolio-btn {
+    background-image: url("images/portfolio-1.png");
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    border-radius: 50px;
+    transition-duration: 1s;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.portfolio-btn:hover {
+    background-image: url("images/portfolio-2.png");
+    border-radius: 300px;
+    transition-duration: 1s;
+
+}
+
+.music-btn {
+    background-image: url("images/audio-2.png");
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-right: 140px;
+    background-size: cover;
+    border-radius: 50px;
+    transition-duration: 1s;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+.music-btn:hover {
+    background-image: url("images/audio-1.png");
+    border-radius: 300px;
+    transition-duration: 1s;
+
+}
